@@ -1,0 +1,2 @@
+###Data Definition Language
+Data Definition Language (DDL) adalah perintah SQL yang digunakan untuk membuat dan memodifikasi objek database seperti table, indeks, dan pengguna.
